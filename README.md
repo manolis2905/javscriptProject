@@ -1,4 +1,4 @@
-# javscriptProject
+# javascriptProject
 
 Project front end development(html/css/javascript)
 Παρούσιαση στατικών δεδομένων(στοιχεία υπαλλήλων) στη σελίδα html. 
