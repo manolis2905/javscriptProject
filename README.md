@@ -1,6 +1,6 @@
-# javascriptProject
+# javascript-project-1
 
-Project frontend development (html/css/vanilla javascript)
+Frontend development project: vanilla javascript ES6, html 5, css
 Παρούσιαση στατικών δεδομένων(στοιχεία υπαλλήλων) στη σελίδα html. 
 Πεδίο ανάζητησης όπου ο χρήστης θα βάζει οποιοδήποτε από τα στοιχεία του υπαλλήλου, 
 έστω και μερικώς και θα επιστρέφει τον αντίστοιχο υπάλληλο(σε μορφή κάρτας) που θα περίεχει το κείμενο 
